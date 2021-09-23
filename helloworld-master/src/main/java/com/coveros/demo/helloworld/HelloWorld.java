@@ -11,7 +11,7 @@ public class HelloWorld {
 
     System.out.println("Hello, World! The current time is " + dtf.format(now));
     System.out.println("Program execution completed");
-    System.out.println("This is POC project");
+    System.out.println("CICD POC");
   }
 
 }
